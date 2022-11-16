@@ -24,6 +24,9 @@ This is a web scraping project using following:
 
 #### To run this on local machine 
 
+- You need to install [sqlite3](https://www.sqlite.org/download.html) on your local machine, 
+and import the sqlite3 module to run the queries.
+
 ##### Create a virtual environement
 ```
 pip install virtualenv
