@@ -55,7 +55,7 @@ SELECT * FROM books LIMIT 10;
 ```
 
 ## Future work
-
+- Will add comments soon
 - The code can always be optimised, will try and reduce the number of lines in future.
 - There are multiple ways to insert data into database, will make it more efficient than current one 
 where the data is collected and transformed into dataframe and then each row of dataframe is inserted into database.
