@@ -53,3 +53,11 @@ CREATE TABLE books (id INT AUTO_INCREMENT PRIMARY KEY, title TEXT, author TEXT, 
 ```
 SELECT * FROM books LIMIT 10;
 ```
+
+## Future work
+
+- The code can always be optimised, will try and reduce the number of lines in future.
+- There are multiple ways to insert data into database, will make it more efficient than current one 
+where the data is collected and transformed into dataframe and then each row of dataframe is inserted into database.
+- Can use PostgreSql or MySql
+- Deploy it on cloud 
